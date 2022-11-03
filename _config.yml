@@ -1,8 +1,8 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Meowphine
+name: borgayr
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Meowphine. I love voice acting and improving my voice, I also love streaming and posting memes and shenanigans on Twitter!
+tagline: Howdy, I'm borgayr. I love voice acting and improving my voice, I also love streaming and posting memes and shenanigans on Twitter!
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://i.imgur.com/MgBwl8i.png
@@ -17,15 +17,15 @@ links:
 
     # TWITTER
   - Name: Twitter
-    URL: https://twitter.com/mowfeen/
-    Username: mowfeen
+    URL: https://twitter.com/borgayr
+    Username: borgayr
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
     # TWITCH
   - Name: Twitch
-    URL: 'https://twitch.tv/Meowphine/'
-    Username: harsh98trivedi
+    URL: 'https://twitch.tv/borgayr/'
+    Username: borgayr
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
@@ -33,7 +33,7 @@ links:
     # STEAM
   - Name: Steam
     URL: https://steamcommunity.com/id/Fleuf/
-    Username: 'Meowphine'
+    Username: 'borgayr'
     Color: '#66c0f4'
     Text_Color: '#000000'
     Icon-Class: fab fa-steam
@@ -41,7 +41,7 @@ links:
     # DISCORD
   - Name: Discord
     URL: 'https://dsc.gg/maowmaow/'
-    Username: Meowphine#6346
+    Username: borgayr#6346
     Icon-Class: fab fa-discord
     Color: '#5865F2'
     Text_Color: '#ffffff'
@@ -49,16 +49,9 @@ links:
     # SPOTIFY
   - Name: Spotify
     URL: https://open.spotify.com/user/31iqwlgkdltr6lita2bpxtwnxady?si=15b19c18039347d3
-    Username: Mama Meow
+    Username: borgayr
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
-
-     # TIKTOK
-  - Name: TikTok
-    URL: https://www.tiktok.com/@mowfeen
-    Username: mowfeen
-    Color: '#FE2C55'
-    Icon-Class: fab fa-tiktok
 
   - Name: Links
     URL: https://github.com/harsh98trivedi/links
